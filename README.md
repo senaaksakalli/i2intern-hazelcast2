@@ -9,7 +9,7 @@ Bu komut,Hazelcast'ın en son sürümünü Docker Hub'dan indirir.
 docker run hazelcast/hazelcast:latest
 Bu komut,indirilen Hazelcast sürümünü çalıştırır.
 
-#Hazelcast Management Center Konteynerini Çekmek ve Çalıştırmak:
+# Hazelcast Management Center Konteynerini Çekmek ve Çalıştırmak:
 
 docker pull hazelcast/management-center:latest
 Bu komut, Hazelcast Management Center'ın en son sürümünü Docker Hub'dan indirir.
